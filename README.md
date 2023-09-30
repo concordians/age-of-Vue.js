@@ -1,5 +1,9 @@
 # age-of-Vue.js
 vue.js 스터디 
+
+<img width="403" alt="스크린샷 2023-09-30 오후 3 35 27" src="https://github.com/concordians/age-of-Vue.js/assets/37764639/8b93005a-196b-4cc1-b7fe-4c96ccc51b8e">
+
+
 - 따로 또 같이, 각자 학습하되 due date를 지키기.
 </br>
 
@@ -8,14 +12,15 @@ vue.js 스터디
 ## 📆 개요
 
 - 기간: 2023. 10 ~
-  인프런 강의 : Vue.js 시작하기 - Age of Vue.js
+
+- 인프런 강의 : [Vue.js 시작하기 - Age of Vue.js](https://github.com/joshua1988/learn-vue-js)
 
 <br>
 
 ## 📚 정리 자료
 | 깃허브 링크                              | 
 | --------------------------------- | 
-| [link] [Vue.js 시작하기 - Age of Vue.js](https://github.com/joshua1988/learn-vue-js)   |                  |  |
+| [link] [Vue.js 리포지토리](https://github.com/joshua1988/learn-vue-js)   |                  |  |
 
 <br>
 
